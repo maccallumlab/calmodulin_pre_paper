@@ -1,6 +1,6 @@
 # README
 
-This is a brief overview of the simulations and the analysis. Note that there is some redundency.
+This is a brief overview of the simulations and the analysis. Note that there is some redundency in the files.
 
 ## Simulation
 
