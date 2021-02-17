@@ -6,9 +6,9 @@ This is a brief overview of the simulations and the analysis. Note that there is
 
 **setup.py**
 
-Script to run MELD simulation for calmodulin (Trial3). All necesary restraint files are included.
+-Script to run MELD simulation for calmodulin (Trial3). All necesary restraint files are included.
 
-See github.com/maccallumlab/meld for more information on running MELD.
+-See github.com/maccallumlab/meld for more information on running MELD.
 
 **job.sh**
 
